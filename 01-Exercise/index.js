@@ -1,15 +1,12 @@
-let productName:string;
+var productName;
 productName = "laptop";
 // productName = 23;
 console.log(productName);
-
-let productPrice:number;
+var productPrice;
 productPrice = 23;
 // productPrice = "23";
-console.log(productPrice)
-
-let discountAvailable:boolean;
+console.log(productPrice);
+var discountAvailable;
 discountAvailable = true;
 // discountAvailable = "true";
-console.log(discountAvailable)
-
+console.log(discountAvailable);
