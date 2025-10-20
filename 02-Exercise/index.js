@@ -1,0 +1,10 @@
+var names = ["faarax", "cali", "ciise", "guuleed"];
+console.log(names);
+var grades = [23, 33, 45, 67];
+console.log(grades);
+var theStatus = true;
+console.log(theStatus);
+var products = ["Phone", "Laptop", 99];
+console.log(products);
+var locations = ["gaalkacyo", "israac", 123];
+console.log(locations);
