@@ -13,7 +13,6 @@ const familyNames: string[] = ["caasho", "cismaan", "Geele"];
 
 type bloodParameter = {
     key:string;
-    
 }
 
 const bloodGroups: { [key: string]: string } = {
